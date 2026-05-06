@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 23, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hobak-feiny/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Hobak Feiny](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
