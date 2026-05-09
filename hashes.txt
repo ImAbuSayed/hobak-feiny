@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hobak Feiny
+
+This log tracks the cryptographic history and versioning for the song **Hobak Feiny** (hobak-feiny).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:53:36.705523 | `v1` | `c3341f5b408d46b1a56c455a5f60ea1fe8c6be2895fac417823c9675578102e3` | `75e938ccde137722a9ccfc6b5f5c6275a738f87f00d215b54e6119321d623587` | `2026-05-09_hobak-feiny-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
